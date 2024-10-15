@@ -1,7 +1,7 @@
 # data-no-acqu-ino
 ![189931169-9df7b283-bf43-4af4-8154-b1669862090e](https://github.com/user-attachments/assets/a1b121a0-206b-4a31-8393-51bf92604dfa)
 
-_Data no Acquisition Arduino API = API ~Arduino para Aquisição~ Criação de Dados_
+_Data no Acquisition Arduino API = API ~Arduino para Aquisição~ No_
 
 API original: https://github.com/BandTec/dat-acqu-ino
 
