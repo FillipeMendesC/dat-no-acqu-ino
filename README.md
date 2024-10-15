@@ -18,20 +18,22 @@ API original: https://github.com/BandTec/dat-acqu-ino
 4. Renomeie as variáveis para sua situação:
 
    - Selecione a variável e clique **Ctrl + F**.
+     
 ![passo1](https://github.com/user-attachments/assets/32ef6756-0b58-4ef2-a0a7-6a7edfccb14e)
 
    - Clique na seta e insira o novo nome dessa variável.
+     
 ![passo2](https://github.com/user-attachments/assets/c3105db3-1386-46b3-80de-ef03ae4ba159)
 
 
    - Clique no botão **Replace All** (**Ctrl + Alt + Enter**).
+     
 ![passo3](https://github.com/user-attachments/assets/7a9fa251-a293-47b0-8799-d49410c2bc60)
 
 
 5. Renomeie os endpoints para corresponder aos definidos no gráfico.
+   
 ![passoEnd](https://github.com/user-attachments/assets/2aa31fd1-0b57-4f45-85a8-30279ba68cf1)
-
-
    _Exemplo: De /sensores/sensor1 para /sensores/temperatura._
 
 6. Acesse o diretório deste repositório no terminal (GitBash ou VSCode) e execute os comandos abaixo:
