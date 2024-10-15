@@ -34,6 +34,7 @@ API original: https://github.com/BandTec/dat-acqu-ino
 5. Renomeie os endpoints para corresponder aos definidos no gráfico.
    
 ![passoEnd](https://github.com/user-attachments/assets/2aa31fd1-0b57-4f45-85a8-30279ba68cf1)
+
    _Exemplo: De /sensores/sensor1 para /sensores/temperatura._
 
 6. Acesse o diretório deste repositório no terminal (GitBash ou VSCode) e execute os comandos abaixo:
