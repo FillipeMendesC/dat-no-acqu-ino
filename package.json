@@ -1,0 +1,19 @@
+
+{
+  "name": "dat-no-acqu-ino",
+  "version": "0.0.1",
+  "description": "Modificação da API dat-acqu-ino para comunicação sem arduino",
+  "main": "apiFake.js",
+  "scripts": {
+    "start": "node apiFake.js"
+  },
+  "author": "Fillipe Mendes Coelho",
+  "contributors": [
+    "MariseMiranda",
+    "Eduardo Verri",
+    "Matheus Matos"
+  ],
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
